@@ -50,6 +50,3 @@ GitHub仓库：SSHLogAnalyzer
 
 我们期待您的反馈，并致力于不断改进SSHLogAnalyzer，为用户提供更好的服务。
 
-GitHub仓库：SSHLogAnalyzer
-
-我们期待您的反馈，并致力于不断改进SSHLogAnalyzer，为用户提供更好的服务。
