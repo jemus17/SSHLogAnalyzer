@@ -27,5 +27,5 @@ Windows版本的SSHLogAnalyzer可能不支持所有版本的Windows操作系统�
 如果您在使用SSHLogAnalyzer过程中遇到任何问题或建议，请随时通过以下方式与我们联系：
 
 GitHub仓库：SSHLogAnalyzer
-电子邮件：your-email@example.com（请替换为您的实际邮箱地址）
+电子邮件：404864462qq@qq.com（请替换为您的实际邮箱地址）
 我们期待您的反馈，并致力于不断改进SSHLogAnalyzer，为用户提供更好的服务。
